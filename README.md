@@ -1,16 +1,18 @@
 # Wealth-of-Nation
-Project using Excel and Tableau
-Aim: To clean data and  get it ready to use in data visualation
+## Project using Excel and Tableau
+
+Aim: To clean data and  get it ready for visualisation
+
 Data: Wealth of Nation using GDP file sheet
 
-Data Cleaning
--Checking missing data and removing
-Reoval of duplicates
+Data Cleaning:
+Checking missing data
+Removal of duplicates
 
 Techniques used:
-Import Data
-Set Relationships
-Check Data types
+Import Data,
+Set Relationships,
+Check Data types,
 Build Charts
 
 Requirement: The client is colour blind and requested you to bear this in mind when building your dashboard. The 
